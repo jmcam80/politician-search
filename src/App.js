@@ -1,10 +1,6 @@
 
 import React, { PureComponent } from 'react';
-import {
-  ActivityIndicator,
-  Text,
-  TouchableOpacity,
-  View,
+import {  ActivityIndicator, Text, TouchableOpacity, View,
 } from 'react-native';
 
 import PlacesAutocomplete from 'react-places-autocomplete';
